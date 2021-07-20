@@ -35,12 +35,12 @@ public class Beispielzustand
     {
         p1 = new Picture("iris.jpg");
         p1.display();
-        sHori = new GeometrischeBildoperationen();
-        sHori.setOperation(1);
-        sVerti = new GeometrischeBildoperationen();
-        sVerti.setOperation(2);
-        dLinks = new GeometrischeBildoperationen();
-        dLinks.setOperation(3);
+        // sHori = new GeometrischeBildoperationen();
+        // sHori.setOperation(1);
+        // sVerti = new GeometrischeBildoperationen();
+        // sVerti.setOperation(2);
+        // dLinks = new GeometrischeBildoperationen();
+        // dLinks.setOperation(3);
     }
 
     /**
